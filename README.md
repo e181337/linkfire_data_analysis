@@ -1,3 +1,4 @@
+### data analysis
 The traffic.csv file and the traffic.db SQLite database contain the same web traffic data ("events") from a few different pages ("links") over a period of 7 days including various categorical dimensions about the geographic origin of that traffic as well as a page's content.
 
 Our goal is to understand this traffic better, in particular the volume and distribution of events, and to develop ideas how to increase the links' clickrates. With that in mind, please analyze the data using plain SQL statements as well as the Python Pandas and SciPy libraries where indicated, providing answers to the following questions:
